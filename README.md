@@ -21,7 +21,7 @@
 
 <body  style="background-color: beige;">
 
-<a href="index.html">zurück</a>
+
 
 <table>
     <h1><i>Lieblings-Computerspiele</i></h1>
